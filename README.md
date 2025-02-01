@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🛠Tech Skill
+
 <!--
 **ssy1248/ssy1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
